@@ -1,0 +1,9 @@
+this is my first file in java
+Okey now by
+The collections framework is a unified architecture for representing and
+manipulating collections, enabling them to be manipulated independently of
+ the details of their representation. It reduces programming effort while increasin
+  performance. It enables interoperability among unrelated APIs, reduces effort in designing
+   and learning new APIs, and fosters software reuse. The framework is based on more than a dozen
+    collection interfaces. It includes implementations of these interfaces
+     and algorithms to manipulate them.
